@@ -3,6 +3,19 @@ boxmanng-engine
 
 The engine (no grafical elements etc.) for the game 'BoxmanNG'. 
 
+<pre>
+ level (start)  level (solved)
+ #############  #############
+ #    o     ~#  #         +o#
+ # +   #######  #     #######
+ #######        #######
+ 
+ legend:
+ +      Player
+ o      Box
+ ~      Mark
+</pre>
+
 [EN]<br />
 BoxmanNG is a classic puzzle game.
 
